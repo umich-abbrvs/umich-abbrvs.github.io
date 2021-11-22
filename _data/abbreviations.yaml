@@ -1,0 +1,37 @@
+list:
+  - letter: A
+  - letter: B
+  - letter: C
+  - letter: D
+  - letter: E
+  - letter: F
+  - letter: G
+  - letter: H
+  - letter: I
+  - letter: J
+  - letter: K
+  - letter: L
+  - letter: M
+  - letter: N
+  - letter: O
+  - letter: P
+  - letter: Q
+  - letter: R
+  - letter: S
+  - letter: T
+  - letter: U
+    list:
+      - title: UgLi
+        name: Undergraduate Library
+        map: https://goo.gl/maps/62LnL8o68HHLSjS86
+        web: https://www.lib.umich.edu/locations-and-hours/shapiro-library
+        description: The Shapiro Undergraduate Library, located on the south side of The Diag, this library is the place to be when stuff needs to get done.  It features ample study space and plenty of places to meet with project groups and teams.  Traditionally open 24/7, but revised hours may be in place.
+      - title: UMMA
+        name: University of Michigan Museum of Art
+        map: http://mapq.st/2AyirT9
+        web: http://www.umma.umich.edu/#
+  - letter: V
+  - letter: W
+  - letter: X
+  - letter: Y
+  - letter: Z

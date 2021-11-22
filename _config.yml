@@ -1,0 +1,36 @@
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+port: 8001
+safe: false
+
+title: The Official UM Guide to Acronyms
+name: The Official UM Guide to Acronyms
+email: mohasaad@umich.edu
+email_full: mailto:mohasaad@umich.edu
+website: https://mohsaad.com
+website_full: https://mohsaad.com
+
+
+baseurl: "/"
+
+
+
+######################################
+### Blog details
+######################################
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/Los_Angeles
+permalink:          /blog/:year-:month-:day/:title/
+
+copyright:
+  year:             2021
+  name:             Tatyanna Dadabbo, Jinxing Ding, Brahm Landis, Mohammad Saad
+
+# needed for travis-ci build
+exclude: [vendor, _old]
