@@ -35,7 +35,7 @@ We’re here to make your life easier by serving as a resource to mastering camp
       <h3>
         {% if place.map %}
         <a href= "{{place.map }}">
-          {{ place.title }} : {{ place.name }} 
+          {{ place.title }} {% if place.name %}: {{ place.name }} {% endif %} 
         </a>
         {% endif %}
       </h3>

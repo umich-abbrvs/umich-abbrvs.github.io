@@ -1,23 +1,99 @@
 list:
   - letter: A
+    list:
+      - title: The Arb
+        name: Nichols Arboretum
+        map: https://www.mapquest.com/us/michigan/nichols-arboretum-6322284
+        description: A large, wooded area east of campus, accessible from Geddes Ave. or from Washington Hts popular for walking, running, and picnics.
+      - title: The Arcade
+        name: Nickels Arcade
+        map: https://www.mapquest.com/us/michigan/nickels-arcade-22731381
+        web: https://www.annarbor.org/listing/nickels-arcade/1108/
+        description: A glass-roofed pedestrian walkway with stores that runs from the intersection of State St. and N. University Ave. to Maynard St.
   - letter: B
+    list:
+      - title: BDubs
+        name: Buffalo Wild Wings
+        description: Nickname for Buffalo Wild Wings, a popular sports bar on State Street known for its wings, TVs, and tap selection.
+        map: https://www.mapquest.com/us/michigan/buffalo-wild-wings-291671868
+      - title: The Big House
+        description: University of Michigan’s football stadium that is one of the most iconic sports venues.
+        map: https://www.mapquest.com/us/mi/ann-arbor/48104-3722/1201-s-main-st-42.265985,-83.750269
+        web: https://mbgna.umich.edu/nichols-arboretum/
+      - title: The B-School
+        name: Ross School of Business
+        map: https://www.mapquest.com/us/michigan/university-of-michigan-ross-school-of-business-304195940
+        web: https://michiganross.umich.edu/about/visit/our-campus
   - letter: C
+    list:
+      - title: CC Little/CCTC
+        name: Central Campus Transit Center
+        description: The place on Central Campus where the University transit service (i.e. Blue Buses) and public transit services (i.e. The Ride) pick up and drop off people on both sides of North University Avenue. A common place to see long lines of students waiting to get on a bus to commute between both campuses.
+        map: https://maps.studentlife.umich.edu/building/1100-north-university-building-central-campus-transit-Center
   - letter: D
+    list:
+      - title: The Diag
+        description: The large open space located in the center of Central Campus with many sidewalks running through it in diagonal directions. “The M” is in the center of The Diag.
+        map: https://arts.umich.edu/museums-cultural-attractions/#633
+        web: https://arts.umich.edu/museums-cultural-attractions/the-diag/
   - letter: E
   - letter: F
+    list:
+      - title: The Fishbowl
+        name: Angel Hall Courtyard
+        description: The large glassed-in ITS computing site where Angell, Haven, and Mason Halls meet (located on the “Diag” side of Angell Hall).
+        map: https://its.umich.edu/sites/home/node/3224
+      - title: The Fish
+        name: Ray Fisher Stadium
+        description: University of Michigan Baseball Stadium
+        map: https://www.mapquest.com/us/michigan/ray-fisher-stadium-378852239
   - letter: G
+    list:
+      - title: The Grove
+        description: The North Campus equivalent of the Central Campus Diag that features walkways and seating. The 4-acre area surrounding the Lurie Bell Tower on North Campus.
+        map: https://arts.umich.edu/museums-cultural-attractions/#635
+        web: https://arts.umich.edu/museums-cultural-attractions/the-grove/
   - letter: H
+    list:
+      - title: The Hill
+        description: Area of student residence halls on and near Observatory St., east of the walking bridge.
+        map: https://housing.umich.edu/wp-content/uploads/2018/03/2021_Hill_R2.pdf
   - letter: I
   - letter: J
   - letter: K
   - letter: L
   - letter: M
+    list:
+      - title: MUG
+        map: https://www.mapquest.com/us/michigan/university-of-michigan-union-369226276
+        description: The restaurant and seating area on the ground floor of the Michigan Union.
+      - title: Mojo
+        name:  Mosher-Jordan Residence Hall
+        description: The nickname for the Mosher-Jordan Residence Hall, located in the Hill/Observatory area.
+        web: https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/
+        map: https://www.mapquest.com/us/michigan/mosher-jordan-345749191
   - letter: N
   - letter: O
   - letter: P
+    list:
+      - title: The Pringle
+        name: Biomedical Science Research Building Auditorium
+        description: Part of the Medical School, the ultramodern Biomedical Science Research Building Auditorium (located on Zina Pitcher Place), with its undulating, sloped roof is affectionately known around campus as Pringle Auditorium.
+        web: https://umaec.umich.edu/projects/completed-projects/biomedical-science-research-building/
+        name: https://www.mapquest.com/us/mi/ann-arbor/48109-2200/109-zina-pitcher-pl-42.281877,-83.733548
   - letter: Q
   - letter: R
   - letter: S
+    list:
+      - title: STAMPS
+        name: Stamps Auditorium
+        description: The Stamps Auditorium located inside the Walgreen Drama Center on North Campus.
+        web: https://arts.umich.edu/museums-cultural-attractions/stamps-auditorium/
+        map: https://goo.gl/maps/ubVXyJ7cgnpK8cgk6
+      - title: Skeeps
+        name: Scorekeepers
+        description: A popular college sports bar on Central Campus.
+        map: https://www.mapquest.com/us/michigan/scorekeepers-6322620
   - letter: T
   - letter: U
     list:
@@ -28,10 +104,17 @@ list:
         description: The Shapiro Undergraduate Library, located on the south side of The Diag, this library is the place to be when stuff needs to get done.  It features ample study space and plenty of places to meet with project groups and teams.  Traditionally open 24/7, but revised hours may be in place.
       - title: UMMA
         name: University of Michigan Museum of Art
+        description: The art museum at the University of Michigan
         map: http://mapq.st/2AyirT9
         web: http://www.umma.umich.edu/#
   - letter: V
   - letter: W
+    list:
+      - title: The Well
+        name: Stockwell Hall
+        description: The nickname for Stockwell Hall, a dormitory named after the first woman to be admitted to the university, Madelon Louisa Stockwell.
+        web: https://housing.umich.edu/residence-hall/stockwell-hall/
+        map: https://maps.studentlife.umich.edu/building/madelon-louisa-stockwell-hall
   - letter: X
   - letter: Y
   - letter: Z
