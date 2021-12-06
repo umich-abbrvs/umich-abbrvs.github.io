@@ -165,7 +165,7 @@ list:
         name: Biomedical Science Research Building Auditorium
         description: Part of the Medical School, the ultramodern Biomedical Science Research Building Auditorium (located on Zina Pitcher Place), with its undulating, sloped roof is affectionately known around campus as Pringle Auditorium.
         web: https://umaec.umich.edu/projects/completed-projects/biomedical-science-research-building/
-        name: https://www.mapquest.com/us/mi/ann-arbor/48109-2200/109-zina-pitcher-pl-42.281877,-83.733548
+        map: https://www.mapquest.com/us/mi/ann-arbor/48109-2200/109-zina-pitcher-pl-42.281877,-83.733548
       - title: NW
         name: Northwood Residential Community
         description: Northwood is a collection of five different living communities on North Campus.  NW I, II, IV, and V are graduate residences, while NW III offers one and two bedroom apartments for undergraduate students.
