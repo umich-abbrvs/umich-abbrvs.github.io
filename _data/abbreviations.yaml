@@ -10,6 +10,14 @@ list:
         map: https://www.mapquest.com/us/michigan/nickels-arcade-22731381
         web: https://www.annarbor.org/listing/nickels-arcade/1108/
         description: A glass-roofed pedestrian walkway with stores that runs from the intersection of State St. and N. University Ave. to Maynard St.
+      - title: A&AB
+        name: Stamps Art & Architecture Building
+        description: The home of the Stamps School of Art and Design, this building has labs, studios, and many of the faculty offices, located across the street from Pierpoint Commons.
+        map: https://goo.gl/maps/9YsukeBLnLECqVg99
+        web: https://stamps.umich.edu/facilities/art-architecture-building
+      - title: The [Engin] Arch
+        description: The archway through West Hall at the southeast corner of the Diag. Opens onto South and East University streets.
+        map: https://goo.gl/maps/WctPr3hAdkh7D7u27
   - letter: B
     list:
       - title: BDubs
@@ -22,14 +30,36 @@ list:
         web: https://mbgna.umich.edu/nichols-arboretum/
       - title: The B-School
         name: Ross School of Business
+        description: Michigan's largest and most famous business school, nationally ranked as one of the best programs.
         map: https://www.mapquest.com/us/michigan/university-of-michigan-ross-school-of-business-304195940
         web: https://michiganross.umich.edu/about/visit/our-campus
+      - title: BB
+        name: Bursley-Baits
+        description: Bursley-Baits Residential Halls, these are actually two separate undergraduate residence halls located on North Campus near the NCRB and Pierpont Commons.
+        map: https://goo.gl/maps/a5am6Uagig9NXzjaA
+        web: https://housing.umich.edu/residence-hall/baits/
+      - title: Burlodge
+        name: Bursley Hall
+        description: Another nickname for Bursley Hall on North Campus.
+        map: http://mapq.st/3FvqwcC
   - letter: C
     list:
       - title: CC Little/CCTC
         name: Central Campus Transit Center
         description: The place on Central Campus where the University transit service (i.e. Blue Buses) and public transit services (i.e. The Ride) pick up and drop off people on both sides of North University Avenue. A common place to see long lines of students waiting to get on a bus to commute between both campuses.
         map: https://maps.studentlife.umich.edu/building/1100-north-university-building-central-campus-transit-Center
+      - title: CCRB
+        name: Central Campus Recreation Building
+        description: The largest Rec on campus, the CCRB is home to a variety of amenities such as basketball courts, a swimming pool, and even a sauna.
+        web: https://recsports.umich.edu/facility/ccrb/
+        map: https://goo.gl/maps/kdhxgpJrBJhXJdbx6
+      - title: The Cube
+        description: The large, black metal sculpture in Regents Plaza near the Fleming Administration Building.
+        map: https://goo.gl/maps/ziDz82HKg16ca3px9
+      - title: CAEN
+        name: Computer-Aided Engineering Network
+        description: Handles all aspects of computing for the College of Engineering, and runs computer labs on campus.
+        map: https://goo.gl/maps/G8AeHgNaZKxrNkRE7
   - letter: D
     list:
       - title: The Diag
@@ -37,6 +67,16 @@ list:
         map: https://arts.umich.edu/museums-cultural-attractions/#633
         web: https://arts.umich.edu/museums-cultural-attractions/the-diag/
   - letter: E
+    list:
+      - title: EQ
+        name: East Quad
+        description: Contrary to its name, the EQ is actually a residential building located on Central Campus that houses roughly 850 students.
+        map: https://goo.gl/maps/ndkMp3P22bsv6qqn9
+        web: https://housing.umich.edu/residence-hall/east-quadrangle/
+      - title: EWRE
+        name: Environmental & Water Resources Building
+        description: Home to the Environemental Engineering department at thew University of Michigan.
+        map: https://goo.gl/maps/gvbwc1mG88dpsCKb7
   - letter: F
     list:
       - title: The Fishbowl
@@ -53,15 +93,41 @@ list:
         description: The North Campus equivalent of the Central Campus Diag that features walkways and seating. The 4-acre area surrounding the Lurie Bell Tower on North Campus.
         map: https://arts.umich.edu/museums-cultural-attractions/#635
         web: https://arts.umich.edu/museums-cultural-attractions/the-grove/
+      - title: The Grad
+        name: Harlan Hatcher Graduate Library
+        description: Located on the Diag, this is the largest library on campus.
+        map: http://mapq.st/2BrmzYl
+        web: https://www.lib.umich.edu/
+      - title: GFL
+        name: Gorguze Family Labs
+        description: Many student engineering teams, such as the Solar Car and Formula One, call the GFL their home.
+        map: http://mapq.st/2xy42Xu
   - letter: H
     list:
       - title: The Hill
         description: Area of student residence halls on and near Observatory St., east of the walking bridge.
         map: https://housing.umich.edu/wp-content/uploads/2018/03/2021_Hill_R2.pdf
   - letter: I
-  - letter: J
-  - letter: K
+    list:
+      - title: IMSB
+        name: Intramural Sports Building
+        description: This complex is located next to Palmer Field on Central Campus.  It features basketball courts, group exercise classes among other facilities.
+        map: https://goo.gl/maps/u8dpcgtqp5NinwWKA
+        web: https://recsports.umich.edu/facility/imsb/
+      - title: Ice Cube
+        description: Ann Arbor's ice and figure skating rink, open to all.
+        map: https://goo.gl/maps/zuRTrLvitf71Xdxw8
   - letter: L
+    list:
+      - title: The League
+        name: The Michigan League Building
+        description: Located on North University Ave, this building contains event space and the Maize cafe on the first floor for snacking.
+        map: http://mapq.st/3x08v3a
+        web: https://goo.gl/maps/endkB4R9FoMTcd7D9
+      - title: LBME
+        name: Lurie Biomedical Building
+        description: Home to the Biomedical Engineering department at the University of Michigan.
+        map: https://goo.gl/maps/YEaArT3Np17J3Emv6
   - letter: M
     list:
       - title: MUG
@@ -72,8 +138,27 @@ list:
         description: The nickname for the Mosher-Jordan Residence Hall, located in the Hill/Observatory area.
         web: https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/
         map: https://www.mapquest.com/us/michigan/mosher-jordan-345749191
+      - title: The M
+        description: Bronze M in the middle of the Diag
+        map: https://goo.gl/maps/endkB4R9FoMTcd7D9
+      - title: Michigan Time
+        description: The tradition of starting every class, meeting or event 10 minutes late.
   - letter: N
-  - letter: O
+    list:
+      - title: NQ
+        name: North Quad
+        description: This mixed use building houses roughly 450 undergraduate students while also serving as a hub for the international community at the University.
+        map: https://goo.gl/maps/bxfYG5UQw1xLNmQj6
+        web: https://housing.umich.edu/residence-hall/north-quadrangle/
+      - title: NCRB
+        name: North Campus Recreation Building
+        description: A slightly smaller facility located on North Campus next to the Bursley-Baits complex, still with ample facilities such as a running track, lap pool, and a complete weight room.
+        map: https://goo.gl/maps/DrkVW8aXpXiXsukT7
+        web: https://recsports.umich.edu/facility/ncrb/
+      - title: NAME
+        name: Naval Architecture and Marine Engineering
+        description: Many submarines and underwater robots have been built here, in the home of the namesake department. Also features an anchor outside the building.
+        map: https://goo.gl/maps/zuRTrLvitf71Xdxw8
   - letter: P
     list:
       - title: The Pringle
@@ -81,8 +166,20 @@ list:
         description: Part of the Medical School, the ultramodern Biomedical Science Research Building Auditorium (located on Zina Pitcher Place), with its undulating, sloped roof is affectionately known around campus as Pringle Auditorium.
         web: https://umaec.umich.edu/projects/completed-projects/biomedical-science-research-building/
         name: https://www.mapquest.com/us/mi/ann-arbor/48109-2200/109-zina-pitcher-pl-42.281877,-83.733548
-  - letter: Q
+      - title: NW
+        name: Northwood Residential Community
+        description: Northwood is a collection of five different living communities on North Campus.  NW I, II, IV, and V are graduate residences, while NW III offers one and two bedroom apartments for undergraduate students.
+        web: https://goo.gl/maps/bnZFMQPgYQMd4Zu86
+        maps: https://housing.umich.edu/residence-hall/northwood-iii/
+      - title: PML
+        name: Phoenix Memorial Laboratory
+        description: Originally constructed as a memorial to honor those who lost their lives in WWII, the Phoenix Memorial Laborary is now also home to several cutting-edge engineering labs.
+        map: http://mapq.st/2xy42Xu
   - letter: R
+    list:
+      - title: The Rock
+        description: Giant Boulder on Washtenaw and Hill St corner, often painted over by student organizations.
+        map: https://goo.gl/maps/4FWryWXYvPJitymAA
   - letter: S
     list:
       - title: STAMPS
@@ -94,7 +191,22 @@ list:
         name: Scorekeepers
         description: A popular college sports bar on Central Campus.
         map: https://www.mapquest.com/us/michigan/scorekeepers-6322620
+      - title: SQ
+        name: South Quad
+        description: The largest of the four Quadrangle Residence Halls, SQ houses nearly 1200 first-year students.  Blue Cafe is also located on the ground floor of SQ for a nice treat all year long.
+        map: https://goo.gl/maps/r5awx2pz9Fbtzr4S8
+        web: https://housing.umich.edu/residence-hall/south-quadrangle/
+      - title: SAB
+        name: Student Activities Building
+        description: This building is the home to many of the University’s student-orientated administrative functions. If you lose your Mcard, you’ll be making the trip to the SAB for a replacement.
+        map: https://goo.gl/maps/BorCQMr6aewoeu9M9
+        web: https://finance.umich.edu/treasury/mcard/get-your-mcard/id-stations/mcard-center-student-activities-building
   - letter: T
+    list:
+      - title: TB
+        name: Taubman College of Architecture and Urban Planning
+        description: Road builders and transportation fans congregate here! Home to the Urban Planning and Architecture departments.
+        map: https://goo.gl/maps/ukyKeepXuQ5DZYvj6
   - letter: U
     list:
       - title: UgLi
@@ -107,7 +219,6 @@ list:
         description: The art museum at the University of Michigan
         map: http://mapq.st/2AyirT9
         web: http://www.umma.umich.edu/#
-  - letter: V
   - letter: W
     list:
       - title: The Well
@@ -115,6 +226,8 @@ list:
         description: The nickname for Stockwell Hall, a dormitory named after the first woman to be admitted to the university, Madelon Louisa Stockwell.
         web: https://housing.umich.edu/residence-hall/stockwell-hall/
         map: https://maps.studentlife.umich.edu/building/madelon-louisa-stockwell-hall
-  - letter: X
-  - letter: Y
-  - letter: Z
+      - title: WQ
+        name: West Quad
+        description: Like EQ, West Quad is another residence hall for undergraduates located next to the Michigan Union on Central Campus.
+        web: https://housing.umich.edu/residence-hall/west-quadrangle-cambridge-house/
+        map: https://goo.gl/maps/bbYkVmURCKjpaQrd7
